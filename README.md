@@ -1,6 +1,6 @@
 # Mp3 Crawler
 
-## Background and Introduction
+## Abstract
 
 This is just a simple jupyter notebook designed to crawl through my local mp3 collection that I accumulated during the early 2000's. It then outputs a .csv table that can then be used to transfer music to a modern streaming service.
 
